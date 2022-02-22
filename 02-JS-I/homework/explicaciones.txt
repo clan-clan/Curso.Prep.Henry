@@ -1,0 +1,16 @@
+\\Variables
+Es un objeto que utilizamos para guardar el valor de algo, se puede utilizar todas las veces que querramos en nuestro programa.
+
+\\Strings
+Es un objeto que contiene unicamente texto. 
+
+\\Funciones (argumentos, return)
+Es un objeto que genera resultados utilizando las variables.
+El argumento es la forma de obtener el resultado que buscamos, y el return es el resultado que obtuvimos.
+
+\\Declaraciones if
+Son objetos que ordenan nuestra forma de resolver una operacion dentro de nuestro programa.
+El orden se realiza definiendo una serie de pasos a verificar, si uno de esos pasos se cumple, se obtiene un resultado particular.
+
+\\Valores booleanos (true, false)
+Son valores de resultados que unicamente pueden tener o un valor verdadero (1) o un valor falso (0).
